@@ -1,3 +1,3 @@
 # .conkyrc
 conky config to use with raspberry pi and conky ( https://wiki.ubuntuusers.de/Conky/ )
-https://imgur.com/3hhTKLd
+![image of conky](https://i.imgur.com/3hhTKLd.png)
